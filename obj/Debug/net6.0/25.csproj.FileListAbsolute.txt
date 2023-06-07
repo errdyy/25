@@ -1,0 +1,15 @@
+C:\Users\Dmitriy\Desktop\code\code Markov\25\25\bin\Debug\net6.0\25.exe
+C:\Users\Dmitriy\Desktop\code\code Markov\25\25\bin\Debug\net6.0\25.deps.json
+C:\Users\Dmitriy\Desktop\code\code Markov\25\25\bin\Debug\net6.0\25.runtimeconfig.json
+C:\Users\Dmitriy\Desktop\code\code Markov\25\25\bin\Debug\net6.0\25.dll
+C:\Users\Dmitriy\Desktop\code\code Markov\25\25\bin\Debug\net6.0\25.pdb
+C:\Users\Dmitriy\Desktop\code\code Markov\25\25\obj\Debug\net6.0\25.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\Desktop\code\code Markov\25\25\obj\Debug\net6.0\25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitriy\Desktop\code\code Markov\25\25\obj\Debug\net6.0\25.AssemblyInfoInputs.cache
+C:\Users\Dmitriy\Desktop\code\code Markov\25\25\obj\Debug\net6.0\25.AssemblyInfo.cs
+C:\Users\Dmitriy\Desktop\code\code Markov\25\25\obj\Debug\net6.0\25.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\code\code Markov\25\25\obj\Debug\net6.0\25.dll
+C:\Users\Dmitriy\Desktop\code\code Markov\25\25\obj\Debug\net6.0\refint\25.dll
+C:\Users\Dmitriy\Desktop\code\code Markov\25\25\obj\Debug\net6.0\25.pdb
+C:\Users\Dmitriy\Desktop\code\code Markov\25\25\obj\Debug\net6.0\25.genruntimeconfig.cache
+C:\Users\Dmitriy\Desktop\code\code Markov\25\25\obj\Debug\net6.0\ref\25.dll
